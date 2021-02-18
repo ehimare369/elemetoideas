@@ -5,7 +5,7 @@ import express from "express";
 import apiRouter from "./api-routes/routes.js";
 
 // Declare server port
-const PORT = 3000 || process.env.PORT;
+const PORT = process.env.PORT || 3000;
 
 // Initialize express app
 const app = express();
