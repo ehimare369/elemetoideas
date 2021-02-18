@@ -1,5 +1,5 @@
 {
-  "name": "emideas",
+  "name": "Ele-Meto-Ideas",
   "version": "1.0.0",
   "description": "This project is for \"Ele Meto Ideas\" company. A painting and paint production company",
   "main": "server.js",
@@ -14,5 +14,6 @@
     "dev": "nodemon server/server.js",
     "start": "node server/server.js"
   },
-  "type": "module"
+  "type": "module",
+  "repository": "git@github.com:ehimare369/elemetoideas.git"
 }
